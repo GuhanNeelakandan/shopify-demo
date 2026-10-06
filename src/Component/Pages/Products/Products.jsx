@@ -37,7 +37,7 @@ function Products() {
     }
   return (
     <div className='container'>
-            <h2>Products</h2>
+            <h2>Products siva <small className='text-muted'>{productList.length} items</small></h2>
             <div className='conatiner'>
                     <div className='row'>
                         {
