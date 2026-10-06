@@ -100,7 +100,7 @@ function Cart() {
         <div>
              <div className='d-flex justify-content-between'>
                     <div>
-                        Total Cost
+                        Total Cost harsha
                     </div>
                     <div>
                         ${totalPrice?.toFixed(2)}
